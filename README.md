@@ -1,47 +1,53 @@
+👋 Hi there! I'm Deepak Singh
+I'm a dedicated MERN Stack Developer passionate about building modern, responsive, and scalable web applications. I enjoy crafting intuitive user experiences and working across the full stack.
 
-# Hi there! 👋
+🚀 About Me
+💻 Full-stack developer proficient in HTML, CSS, JavaScript
 
-I'm Deepak Singh, a passionate full-stack web developer. I enjoy building efficient, scalable web applications and have experience working with various technologies and frameworks.
+🌐 Specialized in the MERN stack (MongoDB, Express.js, React.js, Node.js)
 
-## 🚀 About Me
+⚡ Skilled in Next.js for server-side rendering and full-stack development
 
-- 💻 I'm proficient in **HTML, CSS, JavaScript, and PHP**
-- 🌟 I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)**
-- 🎨 I enjoy creating user-friendly interfaces and seamless user experiences
+🎨 UI enthusiast with expertise in Tailwind CSS and clean, responsive design
 
-## 🛠️ Technologies & Tools
+🔄 Experienced in building and consuming RESTful APIs
 
-### Frontend
-- HTML5, CSS3, JavaScript
-- React.js, Redux
-- Bootstrap
+🛠️ Technologies & Tools
+💡 Frontend
+HTML5, CSS3, JavaScript (ES6+)
 
-### Backend
-- Node.js, Express.js
-- PHP
+React.js, Next.js
 
+Tailwind CSS, Bootstrap
 
-### Database
-- MongoDB, Mongoose
-- MySQL
+🔧 Backend
+Node.js, Express.js
 
-### Tools & Platforms
-- Git, GitHub
-- VS Code
+🗃️ Databases
+MongoDB, Mongoose
 
+MySQL
 
-## 🌱 I'm currently learning
+⚙️ Tools & Platforms
+Git & GitHub
 
-- Next.js for server-side rendering
-- Advanced GraphQL techniques
-- Improving my DevOps skills
+Visual Studio Code
 
-## 📫 How to reach me
+Firebase, Vercel
 
-- Email: deepaksinghchauhan914@gmail.com
-- LinkedIn: www.linkedin.com/in/deepak-singh-b2b080267
+Postman, MongoDB Compass
 
-## 🤝 Let's Connect!
+🌱 Currently Learning
+Advanced Next.js features (API routes, middleware, ISR/SSR)
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+GraphQL and Apollo Client
 
+DevOps with Docker, CI/CD, and deployment automation
+
+📫 Contact Me
+📧 Email: deepaksinghchauhan914@gmail.com
+
+💼 LinkedIn: linkedin.com/in/deepak-singh-b2b080267
+
+🤝 Let’s Connect!
+I'm always open to exciting opportunities, collaborations, or freelance work. Feel free to reach out — let’s build something amazing together!
