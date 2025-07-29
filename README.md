@@ -1,52 +1,41 @@
-👋 Hi there!
-I'm Deepak Singh, a passionate full-stack web developer. I enjoy building efficient, scalable web applications and have experience working with various modern technologies and frameworks.
+<h1 align="center">Hi 👋, I'm Deepak Singh</h1>
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
 
-🚀 About Me
-💻 I'm proficient in HTML, CSS, and JavaScript
+🚀 **About Me**
+- 💻 I'm proficient in **HTML**, **CSS**, and **JavaScript**
+- 🌟 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- ⚡ I also work with **Next.js** for full-stack and SSR applications
+- 🎨 I enjoy crafting **user-friendly interfaces** using **Tailwind CSS**
 
-🌟 I specialize in the MERN stack (MongoDB, Express.js, React, Node.js)
+🛠️ **Technologies & Tools**
 
-⚡ I also work with Next.js for full-stack and server-side rendered applications
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
 
-🎨 I love crafting user-friendly interfaces using Tailwind CSS
+**Backend:**
+- Node.js, Express.js
 
-🛠️ Technologies & Tools
-Frontend
-HTML5, CSS3, JavaScript (ES6+)
+**Database:**
+- MongoDB, Mongoose
+- MySQL
 
-React.js, Next.js
+**Tools & Platforms:**
+- Git, GitHub
+- VS Code
+- Firebase, Vercel
+- Postman, MongoDB Compass
 
-Tailwind CSS, Bootstrap
+🌱 **Currently Learning**
+- Advanced **Next.js** (ISR, Middleware, App Router)
+- **GraphQL** and **Apollo Client**
+- DevOps basics: **Docker**, **CI/CD workflows**
 
-Backend
-Node.js, Express.js
+📫 **Reach Me**
+- 📧 Email: [deepaksinghchauhan914@gmail.com](mailto:deepaksinghchauhan914@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/deepak-singh-b2b080267](https://linkedin.com/in/deepak-singh-b2b080267)
 
-Database
-MongoDB, Mongoose
-
-MySQL
-
-Tools & Platforms
-Git, GitHub
-
-VS Code
-
-Firebase, Vercel
-
-Postman, MongoDB Compass
-
-🌱 I'm Currently Learning
-Advanced Next.js concepts (ISR, middleware, app router)
-
-GraphQL and Apollo Client
-
-Improving my DevOps skills with Docker and CI/CD workflows
-
-📫 How to Reach Me
-📧 Email: deepaksinghchauhan914@gmail.com
-
-💼 LinkedIn: linkedin.com/in/deepak-singh-b2b080267
-
-🤝 Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out — let's build something awesome together!
-
+🤝 **Let's Connect!**
+I'm always open to new opportunities and collaborations. Feel free to reach out —  
+**Let's build something awesome together!**
